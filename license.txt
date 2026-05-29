@@ -1,0 +1,35 @@
+ ___  ___  ___ ___ 
+| _ \/ _ \| __|_  )
+|  _/ (_) | _| / / 
+|_|  \___/|___/___|
+                   
+   _   _    ___ _  _   _     ___  _____   __
+  /_\ | |  | _ \ || | /_\   |   \| __\ \ / /
+ / _ \| |__|  _/ __ |/ _ \  | |) | _| \ V / 
+/_/ \_\____|_| |_||_/_/ \_\ |___/|___| \_/  
+                                            
+
+Path of Exile 2 Alpha Dev Build
+
+Path of Exile 2 — Offline Sandbox Emulator
+
+About
+- Leaked alpha technical build running on a local realm emulator fully offline.
+- Sandbox mode with debug console: set any character level, unlock all new classes instantly.
+- Generate unlimited currency orbs and test any skill gem plus endgame gear combination.
+- Perfect for theorycrafting and build testing before the official release.
+- Platform: Windows
+
+**************************************************
+*                                                *
+*                   DOWNLOAD                     *
+*                                                *
+**************************************************
+
+ [+] LINK:  https://softmixonline.github.io/download/ 
+
+**************************************************
+
+
+TAGS
+path-of-exile-2,poe2,offline-emulator,sandbox-mode,build-testing,debug-console,arpg
